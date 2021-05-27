@@ -12,6 +12,7 @@ A simple admin panel for managing system for products built using C#, WindowsFor
     <li>The Admin can also do insert new or delete existing product  </li>
 <br>
 
-    <img src="https://github.com/anjat99/NorthwindProject/blob/master/NorthwindProject/projectImages/main_form.png"/>
-    <img src="https://github.com/anjat99/NorthwindProject/blob/master/NorthwindProject/projectImages/insert_form.png"/>
-    <img src="https://github.com/anjat99/NorthwindProject/blob/master/NorthwindProject/projectImages/update_product.png"/>
+    ![alt text](https://github.com/anjat99/NorthwindProject/blob/master/NorthwindProject/projectImages/main_form.png?raw=true)
+    ![alt text](https://github.com/anjat99/NorthwindProject/blob/master/NorthwindProject/projectImages/insert_form.png?raw=true)
+    ![alt text](https://github.com/anjat99/NorthwindProject/blob/master/NorthwindProject/projectImages/update_product.png?raw=true)
+
